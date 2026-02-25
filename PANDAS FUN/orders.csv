@@ -1,0 +1,31 @@
+order_id,order_date,user_id,user_name,segment,city,state,channel,product,category,quantity,unit_price,discount,returned,payment_method,gross,net
+1001,2026-01-02,1,Ana,Consumer,CDMX,CDMX,web,Laptop Sleeve,Accessories,1,35,0.1,FALSE,card,35,31.5
+1002,2026-01-02,2,Luis,Corporate,GDL,JAL,store,Wireless Mouse,Accessories,2,18.5,0,FALSE,cash,37,37
+1003,2026-01-03,3,Marta,Consumer,MTY,NL,web,Keyboard,Accessories,1,45,0.05,TRUE,card,45,42.75
+1004,2026-01-03,4,Jorge,Small Biz,CDMX,CDMX,app,"Monitor 24""",Electronics,1,160,0.15,FALSE,card,160,136
+1005,2026-01-04,1,Ana,Consumer,Puebla,PUE,web,USB-C Cable,Accessories,3,8,0,FALSE,transfer,24,24
+1006,2026-01-05,5,Sofia,Corporate,QRO,QRO,store,Office Chair,Furniture,1,220,0.2,FALSE,card,220,176
+1007,2026-01-05,6,Diego,Consumer,GDL,JAL,web,Desk Lamp,Furniture,2,28,0,TRUE,card,56,56
+1008,2026-01-06,7,Karla,Small Biz,MTY,NL,app,SSD 1TB,Electronics,1,95,0.1,FALSE,card,95,85.5
+1009,2026-01-06,8,Pedro,Consumer,CDMX,CDMX,store,Notebook,Stationery,5,2.5,0,FALSE,cash,12.5,12.5
+1010,2026-01-07,2,Luis,Corporate,GDL,JAL,web,"Monitor 27""",Electronics,1,240,0.05,FALSE,card,240,228
+1011,2026-01-07,9,Elena,Consumer,Mérida,YUC,app,Pen Set,Stationery,2,12,0,FALSE,transfer,24,24
+1012,2026-01-08,3,Marta,Consumer,MTY,NL,web,Webcam,Electronics,1,70,0,FALSE,card,70,70
+1013,2026-01-09,10,Ramon,Small Biz,CDMX,CDMX,store,Standing Desk,Furniture,1,420,0.1,FALSE,transfer,420,378
+1014,2026-01-09,11,Paula,Consumer,GDL,JAL,web,Headphones,Electronics,1,55,0,TRUE,card,55,55
+1015,2026-01-10,12,Hugo,Corporate,MTY,NL,app,Paper Ream,Stationery,10,4,0.05,FALSE,cash,40,38
+1016,2026-01-10,6,Diego,Consumer,GDL,JAL,web,USB Hub,Electronics,1,22,0,FALSE,card,22,22
+1017,2026-01-11,5,Sofia,Corporate,QRO,QRO,web,Ergo Keyboard,Electronics,1,110,0.15,FALSE,card,110,93.5
+1018,2026-01-12,13,Nora,Small Biz,Puebla,PUE,app,Desk Organizer,Stationery,1,19,0,FALSE,transfer,19,19
+1019,2026-01-12,14,Ivan,Consumer,CDMX,CDMX,web,Smartphone Stand,Accessories,2,14,0.1,FALSE,card,28,25.2
+1020,2026-01-13,15,Lucia,Consumer,MTY,NL,store,HDMI Cable,Accessories,2,9.5,0,FALSE,cash,19,19
+1021,2026-01-14,9,Elena,Consumer,Mérida,YUC,web,Planner,Stationery,1,16,0,FALSE,transfer,16,16
+1022,2026-01-15,11,Paula,Consumer,GDL,JAL,app,Bluetooth Speaker,Electronics,1,80,0.1,FALSE,card,80,72
+1023,2026-01-15,10,Ramon,Small Biz,CDMX,CDMX,web,Floor Mat,Furniture,1,30,0,FALSE,cash,30,30
+1024,2026-01-16,2,Luis,Corporate,GDL,JAL,store,Whiteboard,Furniture,1,90,0.05,TRUE,card,90,85.5
+1025,2026-01-17,7,Karla,Small Biz,MTY,NL,web,Router,Electronics,1,130,0.2,FALSE,card,130,104
+1026,2026-01-17,8,Pedro,Consumer,CDMX,CDMX,app,Sticky Notes,Stationery,6,1.5,0,FALSE,cash,9,9
+1027,2026-01-18,4,Jorge,Small Biz,CDMX,CDMX,web,USB-C Dock,Electronics,1,175,0.1,FALSE,card,175,157.5
+1028,2026-01-18,12,Hugo,Corporate,MTY,NL,store,Ink Cartridge,Stationery,2,25,0,FALSE,transfer,50,50
+1029,2026-01-19,1,Ana,Consumer,Puebla,PUE,app,Gaming Mousepad,Accessories,1,20,0.05,FALSE,card,20,19
+1030,2026-01-20,13,Nora,Small Biz,Puebla,PUE,web,Filing Cabinet,Furniture,1,260,0.15,FALSE,transfer,260,221
